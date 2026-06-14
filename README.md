@@ -28,3 +28,8 @@ The production output is generated in `dist/`.
 ## Live Site
 
 [phantom-spherical-gallery.netlify.app](https://phantom-spherical-gallery.netlify.app)
+
+## Webpage screenshot
+
+<img width="1909" height="977" alt="image" src="https://github.com/user-attachments/assets/e6700168-c5f0-4116-9851-8d70a7c32506" />
+
