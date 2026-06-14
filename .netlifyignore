@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.netlify/
+.npm-cache/
+dev-server.log
+dev-server-error.log
+qa-*.png
+design-qa.md
+AGENTS.md
+
